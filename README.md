@@ -1,1 +1,1 @@
-# scala_algorithms_data_structures
+# Scala Algorithms and Data Structures
